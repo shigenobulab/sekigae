@@ -1,0 +1,8 @@
+1	Beethoven
+2	Bach
+3	Brahms
+4	Mozart
+5	Schumann
+6	Mahler
+7	Bruckner
+8	Schubert
