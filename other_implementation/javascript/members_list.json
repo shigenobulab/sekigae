@@ -1,0 +1,10 @@
+[
+    {"number":1, "name":"Beethoven", "room":null},
+    {"number":2, "name":"Bach", "room":null},
+    {"number":3, "name":"Brahms", "room":null},
+    {"number":4, "name":"Mozart", "room":null},
+    {"number":5, "name":"Schumann", "room":null},
+    {"number":6, "name":"Mahler", "room":null},
+    {"number":7, "name":"Bruckner", "room":null},
+    {"number":8, "name":"Schubert", "room":null}
+]
